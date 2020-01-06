@@ -1,0 +1,14 @@
+package oc.ja.prac;
+
+import java.util.List;
+
+public class ArrayList {
+	public static void main(String[] args) {
+		List<String> ArrayList = new ArrayList<>();
+		ArrayList.add("hawk"); // [hawk]
+		ArrayList.add(1, "robin"); // [hawk, robin]
+		ArrayList.add(0, "blue jay"); // [blue jay, hawk, robin]
+		ArrayList.add(1, "cardinal"); // [blue jay, cardinal, hawk, robin]
+		System.out.println(ArrayList); // [blue jay, cardinal, hawk, robin]
+	}
+}

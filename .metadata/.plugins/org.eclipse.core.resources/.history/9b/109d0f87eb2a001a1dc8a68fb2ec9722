@@ -1,0 +1,17 @@
+package oc.ja.prac;
+
+public class Nest {
+	public static void main(String[] args) {
+		int x = 20;
+		while (x > 0) {
+			do {
+				x -= 2;
+				System.out.println("X is now: " + x);
+			} while (x > 5);
+			System.out.println("X is now less: ");
+			x--;
+			System.out.print(x + "\t");
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+package oc.ja.prac;
+
+import java.util.List;
+
+public class ArrayList {
+	public static void main(String[] args) {
+		
+		/*List<String> ArrayList2 = new ArrayList<>();
+		ArrayList2.add("hawk"); // [hawk]
+		ArrayList2.add(1, "robin"); // [hawk, robin]
+		ArrayList2.add(0, "blue jay"); // [blue jay, hawk, robin]
+		ArrayList2.add(1, "cardinal"); // [blue jay, cardinal, hawk, robin]
+		System.out.println(ArrayList2); // [blue jay, cardinal, hawk, robin]*/
+		
+		
+		 List<String> birds = new ArrayList<>();
+		  birds.add("hawk"); // [hawk]
+		 birds.add("hawk"); // [hawk, hawk]
+		  System.out.println(birds.remove("cardinal")); // prints false
+		  System.out.println(birds.remove("hawk")); // prints true
+	}
+}

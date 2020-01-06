@@ -1,0 +1,25 @@
+package oc.ja.prac;
+
+import java.util.List;
+
+public class ArrayList {
+	public static void main(String[] args) {
+
+		/*List<String> birds = new java.util.ArrayList<>();
+		birds.add("hawk"); // [hawk]
+		birds.add("hawk"); // [hawk, hawk]
+		System.out.println(birds.remove("cardinal")); // prints false
+		System.out.println(birds.remove("hawk")); // prints true*/
+		List<String> one = new java.util.ArrayList<>();
+	 List<String> two = new java.util.ArrayList<>();
+	 System.out.println(one.equals(two)); // true
+	 one.add("a"); // [a]
+	 System.out.println(one.equals(two)); // false
+	 two.add("a"); // [a]
+	 System.out.println(one.equals(two)); // true
+	 one.add("b"); // [a,b]
+	 two.add(0, "b"); // [b,a]
+	 System.out.println(one.equals(two)); // false
+		
+	}
+}

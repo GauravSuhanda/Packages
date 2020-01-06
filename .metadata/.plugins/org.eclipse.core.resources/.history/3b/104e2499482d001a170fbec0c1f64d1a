@@ -1,0 +1,14 @@
+package oc.ja.prac;
+
+import java.util.List;
+
+public class ArrayList {
+	public static void main(String[] args) {
+
+		List<String> birds = new java.util.ArrayList<>();
+		birds.add("hawk"); // [hawk]
+		birds.add("hawk"); // [hawk, hawk]
+		System.out.println(birds.remove("cardinal")); // prints false
+		System.out.println(birds.remove("hawk")); // prints true
+	}
+}

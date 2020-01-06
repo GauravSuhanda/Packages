@@ -1,0 +1,10 @@
+package oc.ja.prac;
+
+public class ArrayList {
+	public static void main(String[] args) {
+		ArrayList list1 = new ArrayList();
+		list1.add("hawk"); // [hawk]
+		list1.add(Boolean.TRUE); // [hawk, true]
+		System.out.println(list1); // [hawk, true]
+	}
+}

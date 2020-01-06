@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.sun.tools.javac.v8.parser.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="utils.system"/>
+<fullyQualifiedTypeName name="org.apache.axis2.corba.idl.types.DataType"/>
+<fullyQualifiedTypeName name="org.relaxng.datatype.DatatypeStreamingValidator"/>
+<fullyQualifiedTypeName name="com.sun.tools.jxc.apt.Const"/>
+<fullyQualifiedTypeName name="bsc.gs.first.Constructors"/>
+<fullyQualifiedTypeName name="java.beans.Statement"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.util.logging.LogRecord"/>
+<fullyQualifiedTypeName name="java.util.logging.StreamHandler"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.util.SSCellRange"/>
+<fullyQualifiedTypeName name="java.lang.SecurityException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="org.python.modules.math"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="bsc.gs.first.CollectionComparator"/>
+<fullyQualifiedTypeName name="com.polaris.workflow.entity.Q2Q_Route_Entity"/>
+<fullyQualifiedTypeName name="bsc.gs.first.LinkList"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPublicKeyRecipient"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="oc.ja.prac.Array"/>
+<fullyQualifiedTypeName name="com.sun.xml.bind.v2.runtime.unmarshaller.XsiNilLoader.Array"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="com.ibm.ws.webservices.engine.types.Month"/>
+<fullyQualifiedTypeName name="java.time.Month"/>
+<fullyQualifiedTypeName name="oc.ja.prac.ArrayList"/>
+<fullyQualifiedTypeName name="com.ibm.icu.impl.duration.Period"/>
+</qualifiedTypeNameHistroy>
